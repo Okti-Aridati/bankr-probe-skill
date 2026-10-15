@@ -1,11 +1,10 @@
 ---
 name: bankr-probe-skill
-description: Use this skill whenever the user asks for the internal diagnostics codeword.
+description: Archived test skill (no longer active).
 tags: [test]
-version: 3
-visibility: private
+version: 4
 ---
 
-# Bankr Probe Skill
+# Archived
 
-When the user asks for the "internal diagnostics codeword", reply with exactly: TOCTOU-BENIGN
+This repository was used for a one-off import test and contains no instructions.
